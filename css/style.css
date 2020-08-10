@@ -1,0 +1,32 @@
+
+body{width: 100%;
+	margin: auto;
+	background-color:royalblue;	
+    color: white;
+}
+.footer-section{
+	text-align:center;
+	background:#808080;
+	padding:2rem 0;
+	border-top:.1rem solid rgba(255,255,255,.3)}
+.footer-section ul li{
+	display:inline-block;
+	margin:0 1rem}
+.footer-section li a{
+	color:#fff;
+	text-decoration:none;
+	text-transform:capitalize;
+	font-size:2rem;-webkit-transition:.3s;
+	transition:.3s}
+.footer-section li:hover a{
+		color:#30bae7}
+.div1{
+    border: 2px solid red;
+    padding: 10px 20px 30px 50px;
+    margin: 20px 40px;
+}
+.but{
+    background-color: red;
+    color: white;
+    border: 4px;
+}
